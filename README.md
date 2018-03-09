@@ -8,7 +8,7 @@ This plugin implements barcode scanner on Cordova 4.0
 * iOS 7.0.0 or above
 
 ## Usage
-cordova plugin add https://github.com/MrLiZ/HuiLianYi-barCode.git
+cordova plugin add https://github.com/JiaQiYue/ZBarCordovaPlugin.git
 
 ## JS 
 ``` js
@@ -61,7 +61,7 @@ com.jieweifu.plugins.barcode.startScan({
     });
 ```
 
-
+注：此插件的作者是jieweifu
 
 
 
